@@ -1,3 +1,5 @@
+
+~~~ ruby
 live_loop :beat do
   sample :drum_heavy_kick
   sleep 0.5
@@ -28,3 +30,4 @@ live_loop :lead do
     sleep 2
   end
 end
+~~~

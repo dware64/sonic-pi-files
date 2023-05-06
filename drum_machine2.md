@@ -1,4 +1,4 @@
-~~ruby
+~~~ruby
 use_bpm 65
 
 live_loop :drums do
@@ -27,4 +27,4 @@ live_loop :effects do
   sample choose([:elec_filt_snare, :elec_mid_snare, :elec_twip, :elec_twang, :elec_pop, :elec_blup, :elec_blip2, :elec_beep, :elec_ping])
   sleep 2
 end
-~~
+~~~
